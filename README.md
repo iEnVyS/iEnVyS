@@ -6,6 +6,8 @@
 
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=iEnVyS&show_icons=true&theme=highcontrast)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iEnVyS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias 
 
 <div style="display: inline_block"><br/>
