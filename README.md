@@ -16,5 +16,9 @@
   <br><br>
   <div/>
   
-  Amante da Tecnologia animais e livros, em busca do meu primeiro emprego na área, email para contato andreferreiramarinho@gmail.com, me coloco a diposição para qualquer informação
+Sou André, tenho 23 anos, e moro em Manaus. Atualmente cursando o quarto período de Sistema de Informação, estou em busca de uma oportunidade para iniciar minha carreira na área de Pentest, contribuindo para a segurança e resiliência de sistemas e aplicações.
+
+Possuo conhecimentos em ferramentas como Kali Linux, Metasploit, Nmap, Burp Suite e Wireshark, essenciais para identificar vulnerabilidades e realizar testes de intrusão de forma eficiente. Minha base técnica e interesse pela segurança da informação me capacitam a analisar sistemas, encontrar falhas e propor soluções eficazes para mitigar riscos.
+
+Sou apaixonado por resolver problemas complexos e estou em constante busca de aprendizado para acompanhar as evoluções na área de cibersegurança. Meu objetivo é aplicar minhas habilidades em projetos inovadores, fortalecendo a segurança de aplicações e sistemas enquanto cresço profissionalmente.
 
